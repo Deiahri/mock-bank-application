@@ -1,0 +1,64 @@
+{
+    "logo": {
+        "component_type": "label",
+        "x": 130,
+        "y": 10,
+        "width": 200,
+        "height": 200,
+        "imageName": "logo.jpg",
+        "image_width": 100,
+        "image_height": 100
+    },
+    "username_text": {
+        "component_type": "label",
+        "x": 25,
+        "y": 174,
+        "width": 100,
+        "height": 10,
+        "text": "Username: ",
+        "color": "000000000",
+        "font_size": 12
+    },
+    "username_field": {
+        "component_type": "text_field",
+        "x": 90,
+        "y": 170,
+        "width": 200,
+        "height": 20,
+        "text": "",
+        "color": "000000000",
+        "font_size": 12
+    },
+    "password_text": {
+        "component_type": "label",
+        "x": 25,
+        "y": 204,
+        "width": 100,
+        "height": 10,
+        "text": "Password: ",
+        "color": "000000000",
+        "font_size": 12
+    },
+    "password_field": {
+        "component_type": "text_field",
+        "x": 90,
+        "y": 200,
+        "width": 200,
+        "height": 20,
+        "text": "",
+        "color": "000000000",
+        "font_size": 12
+    },
+    "login_button": {
+        "component_type": "button",
+        "x": 140,
+        "y": 230,
+        "width": 80,
+        "height": 40,
+        "text": "Login",
+        "color": "255255255",
+        "background_color": "100100255",
+        "font_size": 12
+    },
+    "page_type": "login"
+}
