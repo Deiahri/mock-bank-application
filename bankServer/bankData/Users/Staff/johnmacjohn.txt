@@ -1,0 +1,11 @@
+{
+    "name": "John Mac",
+    "username": "johnmacjohn",
+    "password": "15151",
+    "dob": "",
+    "address": "Houston, Texas",
+    "email": "JohnMac@hotmail.com",
+    "ssn": "123123123",
+    "eid": 123456,
+    "access_level": 2
+}

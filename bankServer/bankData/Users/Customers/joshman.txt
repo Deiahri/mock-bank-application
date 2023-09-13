@@ -1,0 +1,15 @@
+{
+    "name": "Josh",
+    "username": "joshman",
+    "password": "Mac1515",
+    "dob": "",
+    "address": "Houston, Texas",
+    "email": "Josh@hotmail.com",
+    "ssn": "321523215",
+    "accounts": [
+        "1000000000000004",
+        "5000000000000004"
+    ],
+    "loans": [],
+    "credit_cards": []
+}

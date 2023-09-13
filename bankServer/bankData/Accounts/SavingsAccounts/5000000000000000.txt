@@ -1,0 +1,19 @@
+{
+    "balance": 3295.0,
+    "routing_number": 985847372,
+    "open_date": "2023/04/29",
+    "enabled": true,
+    "user": "drett",
+    "transaction_history": {
+        "2023-4-29 13:53.55": "$500.00 | A gift from santa clauz",
+        "2023-4-29 13:54.16": "$500.00 | A gift from santa clauz",
+        "2023-4-29 13:54.18": "$500.00 | A gift from santa clauz",
+        "2023-4-29 19:55.9": "$10.00 | ",
+        "2023-4-29 19:55.25": "$-55.00 | paid to dooga's checking",
+        "2023-4-29 19:56.39": "$-55.00 | paid to dooga's checking",
+        "2023-4-29 19:58.9": "$-5.00 | paid to dooga's checking",
+        "2023-4-29 21:00.23": "$-100.00 | paid to 's checking"
+    },
+    "savings_number": "5000000000000000",
+    "interest_rate": 3.5
+}

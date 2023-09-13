@@ -1,0 +1,10 @@
+{
+    "balance": 0,
+    "routing_number": 985847372,
+    "open_date": "2023/05/02",
+    "enabled": true,
+    "user": "joshman",
+    "transaction_history": {},
+    "savings_number": "5000000000000004",
+    "interest_rate": 3.5
+}

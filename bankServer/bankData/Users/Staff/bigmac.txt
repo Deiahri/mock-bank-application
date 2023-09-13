@@ -1,0 +1,11 @@
+{
+    "name": "Tacittus Kilgore",
+    "username": "bigmac",
+    "password": "DutchLuvMe",
+    "dob": "",
+    "address": "Horse Shoe Overlook 2212",
+    "email": "TheRealJohnMarston@gmail.com",
+    "ssn": "203929321",
+    "eid": 123456,
+    "access_level": 2
+}

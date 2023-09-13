@@ -1,0 +1,15 @@
+{
+    "name": "Sir Dooga",
+    "username": "dooga",
+    "password": "12345",
+    "dob": "",
+    "address": "Dooga's house",
+    "email": "Dooga@gmail.com",
+    "ssn": "203-02-2302",
+    "accounts": [
+        "1000000000000001",
+        "5000000000000001"
+    ],
+    "loans": [],
+    "credit_cards": []
+}

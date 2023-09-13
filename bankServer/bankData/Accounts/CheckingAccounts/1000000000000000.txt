@@ -1,0 +1,24 @@
+{
+    "balance": -9999999998038.62,
+    "routing_number": 985847372,
+    "open_date": "2023/04/29",
+    "enabled": true,
+    "user": "drett",
+    "transaction_history": {
+        "2023-4-29 13:50.28": "$20 | A gift from santa",
+        "2023-4-29 16:49.38": "$180.00 | From: Jude | Because 9*20 = cool!",
+        "2023-4-29 16:50.29": "$20.00 | From: Jude | Because 1*20 = cool!",
+        "2023-4-29 16:50.31": "$40.00 | From: Jude | Because 2*20 = cool!",
+        "2023-4-29 16:50.33": "$60.00 | From: Jude | Because 3*20 = cool!",
+        "2023-4-29 16:50.35": "$80.00 | From: Jude | Because 4*20 = cool!",
+        "2023-4-29 16:50.37": "$100.00 | From: Jude | Because 5*20 = cool!",
+        "2023-4-29 16:50.39": "$120.00 | From: Jude | Because 6*20 = cool!",
+        "2023-4-29 16:50.41": "$140.00 | From: Jude | Because 7*20 = cool!",
+        "2023-4-29 16:50.43": "$160.00 | From: Jude | Because 8*20 = cool!",
+        "2023-4-29 16:50.45": "$180.00 | From: Jude | Because 9*20 = cool!",
+        "2023-4-29 19:55.9": "$-10.00 | paid to 's savings",
+        "2023-4-29 21:00.23": "$100.00 | Swag",
+        "2023-4-30 16:36.55": "$-9999999999999.02 | Dutch don luv me no mo :( - arthur"
+    },
+    "checking_number": "1000000000000000"
+}

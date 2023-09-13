@@ -1,0 +1,15 @@
+{
+    "name": "Mitchell",
+    "username": "md",
+    "password": "password",
+    "dob": "",
+    "address": "890 Test",
+    "email": "t@test.mail",
+    "ssn": "000000000",
+    "accounts": [
+        "1000000000000007",
+        "5000000000000007"
+    ],
+    "loans": [],
+    "credit_cards": []
+}

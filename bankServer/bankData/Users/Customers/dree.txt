@@ -1,0 +1,15 @@
+{
+    "name": "Junda",
+    "username": "dree",
+    "password": "12345",
+    "dob": "",
+    "address": "Mac Homes",
+    "email": "Drett@gmail.com",
+    "ssn": "123232153",
+    "accounts": [
+        "1000000000000002",
+        "5000000000000002"
+    ],
+    "loans": [],
+    "credit_cards": []
+}

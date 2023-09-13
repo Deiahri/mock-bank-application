@@ -1,0 +1,15 @@
+{
+    "name": "Kelly",
+    "username": "kellysir",
+    "password": "12321",
+    "dob": "",
+    "address": "Houston, Texas",
+    "email": "Kelly@gmail.com",
+    "ssn": "123123123",
+    "accounts": [
+        "1000000000000006",
+        "5000000000000006"
+    ],
+    "loans": [],
+    "credit_cards": []
+}

@@ -1,0 +1,9 @@
+{
+    "balance": 0,
+    "routing_number": 985847372,
+    "open_date": "2023/05/02",
+    "enabled": true,
+    "user": "dhasdsi",
+    "transaction_history": {},
+    "checking_number": "1000000000000005"
+}

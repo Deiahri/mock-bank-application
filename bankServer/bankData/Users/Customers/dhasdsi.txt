@@ -1,0 +1,15 @@
+{
+    "name": "Junda",
+    "username": "dhasdsi",
+    "password": "29321",
+    "dob": "",
+    "address": "Houston, Texas",
+    "email": "Hasdiha@gmail.com",
+    "ssn": "019202932",
+    "accounts": [
+        "1000000000000005",
+        "5000000000000005"
+    ],
+    "loans": [],
+    "credit_cards": []
+}
